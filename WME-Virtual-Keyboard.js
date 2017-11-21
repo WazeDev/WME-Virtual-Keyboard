@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         WME Virtual Keyboard
 // @namespace    http://tampermonkey.net/
-// @version      2017.11.20.001
-// @description  Adds a "virtual keyboard" to type locale-specific characters (currently only Turkish characters).
+// @version      2017.11.20.002
+// @description  Adds a "virtual keyboard" to enter non-english characters (currently only Turkish characters).
 // @author       MapOMatic
 // @include     /^https:\/\/(www|beta)\.waze\.com\/(?!user\/)(.{2,6}\/)?editor\/?.*$/
 // @license      GNU GPLv3
